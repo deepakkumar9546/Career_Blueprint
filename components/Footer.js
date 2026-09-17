@@ -8,7 +8,6 @@ const navLinks = [
   { label: "Experience", href: "#experience" },
   { label: "Contact", href: "#contact" },
 ];
-
 const socialLinks = [
   {
     icon: "ti-brand-github",
