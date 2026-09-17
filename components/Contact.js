@@ -26,7 +26,7 @@ const contactInfo = [
     icon: "ti-brand-linkedin",
     label: "LinkedIn",
     value: "LinkedIn Profile",
-    link: "https://www.linkedin.com",
+    link: "https://www.linkedin.com/in/deepak-kumar-56417322a/",
     color: "#34d399",
     border: "rgba(52,211,153,0.2)",
     bg: "rgba(52,211,153,0.05)",

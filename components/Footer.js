@@ -17,7 +17,7 @@ const socialLinks = [
   },
   {
     icon: "ti-brand-linkedin",
-    href: "https://www.linkedin.com",
+    href: "https://www.linkedin.com/in/deepak-kumar-56417322a/",
     label: "LinkedIn",
   },
   {
